@@ -38,6 +38,7 @@
     
 ### Education
 
+* Incomplete higher education - Applied CS
 * [Hexlet](https://ru.hexlet.io/u/graph1589) JS course
 
 ### English
