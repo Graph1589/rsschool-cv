@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #333;
+    font-family: sans-serif;
+    background-color: #F5F5F5;
+}
+
+header {
+    width: 400px;
+    height: 50px;
+    margin:auto;
+    align-items: stretch;
+    font-family: monospace;
+}
+
+.contacts > ul {
+    display: flex;
+    list-style: none;
+    border-bottom: 2px solid grey;
+}
+
+.contacts > ul > li {
+    margin: auto;
+    
+}
+
+main {
+    padding-top: 50px;
+    width: 700px;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    width: 100%;
+    margin-top: 15px;
+    padding-top: 15px;
+}
+
+footer > nav > * {
+    width: 700px;
+    padding: 100px;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    font-size: 60px;
+    text-align: center;
+}
+
+h2 {
+    padding-bottom: 30px;
+    margin-top: 0;
+    font-size: 25px;
+    text-align: center;  
+    border-bottom: 2px solid #e3e3e3;
+}
+
+a {
+    text-decoration: unset;
+    color: #006699;
+}
+
+section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+section > h2 {
+    margin: 0;
+    text-align: left;
+    border: none;
+}
+
+pre code {
+    font-family: monospace;
+    background-color: #DCDCDC;
+    display: block;
+    padding: 12px;
+}
+
+#photo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+li {
+    margin-bottom: 10px;
+}
